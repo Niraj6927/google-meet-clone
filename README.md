@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Example of my-google-meet Meeting
+
+![my-google-meet-meeting](https://github.com/Niraj6927/google-meet-clone/assets/83137695/bb1c9689-efc9-4b85-bbfa-1d0c0bd24337)
+
+
 ## Getting Started
 
 First, run the development server:
